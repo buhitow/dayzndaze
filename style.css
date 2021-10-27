@@ -12,7 +12,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url("daystop.jpg");
+  background-image: url('daystop.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
